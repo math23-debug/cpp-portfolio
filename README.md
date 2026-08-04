@@ -11,3 +11,4 @@ Rebuilding my C++ skills through structured, progressively harder projects — f
 - **GradeTracker** — OOP combined with `std::vector` for dynamic data storage.
 - **InventorySystem** — Custom `Item` class combined with `std::vector` for managing collections of objects.
 - **TicTacToe** — 2D vectors (`std::vector<std::vector<char>>`) and win-condition logic.
+- **BouncingBall** — First SFML project. Implements bouncing physics, a drag-to-launch slingshot mechanic, and velocity-based friction/deceleration.
